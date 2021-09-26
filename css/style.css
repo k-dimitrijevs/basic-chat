@@ -1,0 +1,38 @@
+body {
+    padding-top: 50px;
+}
+
+h2 {
+    font-family: 'Teko', sans-serif;
+}
+
+p {}
+
+#title {
+    font-family: 'Italianno', cursive;
+    font-size: 70px;
+    padding: 20px;
+    text-align: center;
+    color: cornflowerblue;
+}
+
+#chat-box {
+    height: 280px;
+    width: 500px;
+    border: 1px solid black;
+}
+
+.chat-username {
+    color: coral;
+    margin: 0;
+}
+
+.chat-msg {
+    margin-bottom: 8px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+}
+
+.main-block {
+    padding-top: 30px;
+}
